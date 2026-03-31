@@ -1,9 +1,8 @@
 # @philiprehberger/uid
 
 [![CI](https://github.com/philiprehberger/ts-uid/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-uid/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/uid)](https://www.npmjs.com/package/@philiprehberger/uid)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-uid)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/uid.svg)](https://www.npmjs.com/package/@philiprehberger/uid)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-uid)](https://github.com/philiprehberger/ts-uid/commits/main)
 
 Collision-resistant, time-sortable, compact unique IDs in base62.
 
@@ -75,6 +74,24 @@ npm run build
 npm test
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/ts-uid)
+
+🐛 [Report issues](https://github.com/philiprehberger/ts-uid/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/ts-uid/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
